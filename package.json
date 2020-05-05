@@ -1,0 +1,17 @@
+{
+  "name": "board-draw",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Catharina Mesquita",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
