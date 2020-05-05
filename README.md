@@ -15,4 +15,4 @@ yarn start
 
 - [ ] Improving style
 - [ ] For each new player, add aleatory color to pencil
-- [ ] ...
+- [ ] Implement Crl+Z
